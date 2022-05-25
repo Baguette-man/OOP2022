@@ -1238,3 +1238,368 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.25-14.01.54:732][260]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/MainMenu/UI_menu_Auto1
 [2022.05.25-14.01.54:732][260]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_menu_Auto134DFE2874F61FDC324A4B6AAA3FD5EFA.tmp' to 'K:/OOP2022/Saved/Autosaves/Game/Level/MainMenu/UI_menu_Auto1.uasset'
 [2022.05.25-14.01.54:733][260]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.05.25-14.11.36:823][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_menu" FILE="K:/OOP2022/Content/Level/MainMenu/UI_menu.uasset" SILENT=true
+[2022.05.25-14.11.36:830][801]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/UI_menu
+[2022.05.25-14.11.36:831][801]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_menu8A9A46964402AAAC75289786A81341E9.tmp' to 'K:/OOP2022/Content/Level/MainMenu/UI_menu.uasset'
+[2022.05.25-14.11.36:849][801]AssetCheck: New page: Asset Save: UI_menu
+[2022.05.25-14.11.36:849][801]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/MainMenu/UI_menu.UI_menu
+[2022.05.25-14.11.46:955][304]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.05.25-14.11.46:966][304]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.05.25-14.11.46:972][304]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.05.25-14.11.46:986][305]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.05.25-14.12.02:729][250]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_saveGameTile
+[2022.05.25-14.12.02:735][250]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.05.25-14.12.04:474][352]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Level/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.12.04:474][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.25-14.12.04:484][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.25-14.12.04:856][352]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.12.04:856][352]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.13.18:786][732]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-14.13.29:985][398]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.13.30:069][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.05.25-14.13.30:509][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.13.30:513][420]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/UI_saveGameTile
+[2022.05.25-14.13.30:513][420]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTileE6ACDD274A718384853790ABA327544E.tmp' to 'K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.13.30:529][420]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.13.30:529][420]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.13.59:239][135]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.13.59:320][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.25-14.13.59:681][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.13.59:685][152]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/UI_saveGameTile
+[2022.05.25-14.13.59:686][152]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTile05EBC3084E09B40E435126884C41EA99.tmp' to 'K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.13.59:702][152]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.13.59:702][152]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.15.45:832][376]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-14.15.51:006][651]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-14.15.57:790][ 50]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.15.57:870][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.05.25-14.15.58:331][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.15.58:335][ 67]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/UI_saveGameTile
+[2022.05.25-14.15.58:336][ 67]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTile3563FF154D7FA2603A1C7F8BCD2AAA34.tmp' to 'K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.15.58:351][ 67]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.15.58:351][ 67]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.16.39:939][560]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.25-14.16.39:945][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.25-14.16.39:945][560]PIE: New page: PIE session: MainMenu (25 mai 2022 à 18:16:39)
+[2022.05.25-14.16.39:945][560]LogPlayLevel: Creating play world package: /Game/Level/MainMenu/UEDPIE_0_MainMenu
+[2022.05.25-14.16.39:946][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001023s)
+[2022.05.25-14.16.39:946][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/MainMenu/MainMenu.MainMenu to /Game/Level/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.001132s)
+[2022.05.25-14.16.39:947][560]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.25-14.16.39:947][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.25-14.16.39:947][560]LogAIModule: Creating AISystem for world MainMenu
+[2022.05.25-14.16.39:948][560]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2022.05.25-14.16.40:009][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.05.25-14.16.40:011][560]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.25-14.16.40:011][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-14.16.40:011][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-14.16.40:011][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-14.16.40:011][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-14.16.40:011][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-14.16.40:011][560]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.25-14.16.40:011][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-14.16.40:011][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-14.16.40:012][560]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-14.16.40:012][560]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-14.16.40:012][560]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-14.16.40:014][560]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.25-14.16.40:048][560]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2022.05.25-14.16.40:048][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-14.16.40:048][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-14.16.40:048][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-14.16.40:050][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.05.25-14.16.40:050][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2022.05.25-14.16.40:053][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.05.25-14.16.40:053][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.05.25-14.16.40:053][560]LogInit: FAudioDevice initialized.
+[2022.05.25-14.16.40:053][560]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2022.05.25-14.16.40:070][560]LogLoad: Game class is 'GM_menu_C'
+[2022.05.25-14.16.40:070][560]LogWorld: Bringing World /Game/Level/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.05.25-16.16.40
+[2022.05.25-14.16.40:070][560]LogWorld: Bringing up level for play took: 0.000372
+[2022.05.25-14.16.40:072][560]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.05.25-14.16.40:075][560]PIE: Server logged in
+[2022.05.25-14.16.40:075][560]PIE: Play in editor total start time 0,131 seconds.
+[2022.05.25-14.17.04:798][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-14.17.04:798][ 43]LogWorld: BeginTearingDown for /Game/Level/MainMenu/UEDPIE_0_MainMenu
+[2022.05.25-14.17.04:820][ 43]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-14.17.04:821][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-14.17.04:833][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-14.17.04:840][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-14.17.04:895][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.25-14.17.04:895][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.05.25-14.17.04:900][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.05.25-14.17.04:904][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-14.17.04:907][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.05.25-14.17.04:954][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.05.25-14.19.45:770][613]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.19.45:851][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.05.25-14.19.46:163][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.19.46:168][627]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/UI_saveGameTile
+[2022.05.25-14.19.46:169][627]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTile28B7D2704507FB323DE90689E30E1FB1.tmp' to 'K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.19.46:186][627]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.19.46:186][627]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.21.11:478][256]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.25-14.21.18:129][256]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.25-14.21.18:138][256]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.05.25-14.21.18:144][256]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.05.25-14.21.18:158][257]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.05.25-14.21.21:194][432]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1644)].
+[2022.05.25-14.21.21:194][432]LogContentBrowser: Attempting asset rename: NewBlueprint -> GI
+[2022.05.25-14.21.21:199][432]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.05.25-14.21.21:273][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.05.25-14.21.21:276][432]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MainMenu/MainMenu' took 0.063
+[2022.05.25-14.21.21:276][432]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Level/MainMenu/UI_menu] ([2] browsable assets)...
+[2022.05.25-14.21.21:279][432]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Level/MainMenu/UI_menu.UI_menu]
+[2022.05.25-14.21.21:280][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/MainMenu/UI_menu]
+[2022.05.25-14.21.21:280][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_menu" FILE="K:/OOP2022/Saved/Autosaves/Game/Level/MainMenu/UI_menu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.05.25-14.21.21:287][432]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/MainMenu/UI_menu_Auto2
+[2022.05.25-14.21.21:287][432]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_menu_Auto2137D676240EECF80E8C2D3906258451E.tmp' to 'K:/OOP2022/Saved/Autosaves/Game/Level/MainMenu/UI_menu_Auto2.uasset'
+[2022.05.25-14.21.21:287][432]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.05.25-14.21.30:938][  8]BlueprintLog: New page: Compile UI_menu
+[2022.05.25-14.21.31:017][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.05.25-14.22.08:372][188]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.25-14.22.08:382][188]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-14.22.11:385][363]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.25-14.22.11:389][363]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-14.23.51:526][257]LogEditorTransaction: Undo Straighten Connection(s)
+[2022.05.25-14.24.59:544][139]LogSlate: Took 0.009100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.25-14.25.54:927][429]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.25.54:990][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.05.25-14.25.59:176][675]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.25.59:176][675]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.28.22:520][111]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.28.22:587][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.05.25-14.28.23:088][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.28.23:095][136]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/UI_saveGameTile
+[2022.05.25-14.28.23:095][136]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTileA8CEE91D4DB877C0AEA239946AD9FB0E.tmp' to 'K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.28.23:112][136]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.28.23:112][136]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.32.31:592][659]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.32.31:677][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.05.25-14.32.32:048][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.32.32:058][676]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/UI_saveGameTile
+[2022.05.25-14.32.32:058][676]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTileE934B5FE45E8F5E33EC30897E0655BA4.tmp' to 'K:/OOP2022/Content/Level/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.32.32:072][676]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.32.32:073][676]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.33.02:628][437]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.25-14.33.07:254][437]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.25-14.33.07:263][437]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.05.25-14.33.07:270][437]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.05.25-14.33.07:282][438]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.05.25-14.33.19:231][153]LogContentBrowser: Attempting asset rename: NewBlueprint -> SG
+[2022.05.25-14.33.19:236][153]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.05.25-14.33.22:820][365]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Level/MainMenu/SG.SG
+[2022.05.25-14.33.22:820][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.25-14.33.51:945][ 77]BlueprintLog: New page: Compile SG
+[2022.05.25-14.33.52:042][ 77]LogUObjectHash: Compacting FUObjectHashTables data took  26.60ms
+[2022.05.25-14.33.52:279][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/SG" FILE="K:/OOP2022/Content/Level/MainMenu/SG.uasset" SILENT=true
+[2022.05.25-14.33.52:280][ 87]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/SG
+[2022.05.25-14.33.52:280][ 87]LogSavePackage: Moving 'K:/OOP2022/Saved/SGBD1A297F4C10879BD3F1A3BDBCCC5277.tmp' to 'K:/OOP2022/Content/Level/MainMenu/SG.uasset'
+[2022.05.25-14.33.52:296][ 87]AssetCheck: New page: Asset Save: SG
+[2022.05.25-14.33.52:296][ 87]LogContentValidation: Display: Validating Blueprint /Game/Level/MainMenu/SG.SG
+[2022.05.25-14.34.46:315][229]BlueprintLog: New page: Compile UI_menu
+[2022.05.25-14.34.46:403][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.05.25-14.34.46:907][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/UI_menu" FILE="K:/OOP2022/Content/Level/MainMenu/UI_menu.uasset" SILENT=true
+[2022.05.25-14.34.46:917][253]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/UI_menu
+[2022.05.25-14.34.46:917][253]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_menuD05CA0544FC0A231E52F73ADB302D131.tmp' to 'K:/OOP2022/Content/Level/MainMenu/UI_menu.uasset'
+[2022.05.25-14.34.46:932][253]AssetCheck: New page: Asset Save: UI_menu
+[2022.05.25-14.34.46:932][253]LogContentValidation: Display: Validating WidgetBlueprint /Game/Level/MainMenu/UI_menu.UI_menu
+[2022.05.25-14.34.49:307][395]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-14.34.49:307][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-14.35.12:533][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.GM_menu:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:535][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.SKEL_GM_menu_C' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:535][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.GM_menu_C' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:535][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.GM_menu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:535][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.GM_menu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:535][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.SKEL_GM_menu_C:UserConstructionScript' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:535][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.SKEL_GM_menu_C:ReceiveTick' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:535][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.SKEL_GM_menu_C:ReceiveBeginPlay' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:535][773]LogMetaData: Removing '/Game/Levels/MainMenu/GM_menu.GM_menu_C:ReceiveBeginPlay' ref from Metadata '/Game/Level/MainMenu/GM_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.PC_menu:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.SKEL_PC_menu_C' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.PC_menu_C' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.PC_menu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.PC_menu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.PC_menu_C:ReceiveBeginPlay' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.SKEL_PC_menu_C:ReceiveBeginPlay' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.SKEL_PC_menu_C:ReceiveTick' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:643][773]LogMetaData: Removing '/Game/Levels/MainMenu/PC_menu.SKEL_PC_menu_C:UserConstructionScript' ref from Metadata '/Game/Level/MainMenu/PC_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.SKEL_UI_menu_C' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.UI_menu_C' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.UI_menu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.UI_menu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.UI_menu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.SKEL_UI_menu_C:BndEvt__UI_menu_btnLoadGame_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.SKEL_UI_menu_C:BndEvt__UI_menu_btnQuitGame_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.SKEL_UI_menu_C:Tick' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.SKEL_UI_menu_C:Construct' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_menu.SKEL_UI_menu_C:PreConstruct' ref from Metadata '/Game/Level/MainMenu/UI_menu.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/GI.SKEL_GI_C' ref from Metadata '/Game/Level/GI.PackageMetaData'
+[2022.05.25-14.35.12:645][773]LogMetaData: Removing '/Game/Levels/GI.GI_C' ref from Metadata '/Game/Level/GI.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/SG.SKEL_SG_C' ref from Metadata '/Game/Level/MainMenu/SG.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/SG.SG_C' ref from Metadata '/Game/Level/MainMenu/SG.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.SKEL_UI_saveGameTile_C' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile_C' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile_C:Create Save Game Tile' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.SKEL_UI_saveGameTile_C:Create Empty Save Game Tile' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.SKEL_UI_saveGameTile_C:Create Save Game Tile' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:646][773]LogMetaData: Removing '/Game/Levels/MainMenu/UI_saveGameTile.SKEL_UI_saveGameTile_C:PreConstruct' ref from Metadata '/Game/Level/MainMenu/UI_saveGameTile.PackageMetaData'
+[2022.05.25-14.35.12:686][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/GM_menu" FILE="K:/OOP2022/Content/Levels/MainMenu/GM_menu.uasset" SILENT=true
+[2022.05.25-14.35.12:689][773]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/GM_menu
+[2022.05.25-14.35.12:689][773]LogSavePackage: Moving 'K:/OOP2022/Saved/GM_menu19427C214314B20A9F3593B8A180D8A3.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/GM_menu.uasset'
+[2022.05.25-14.35.12:691][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/MainMenu/GM_menu" FILE="K:/OOP2022/Content/Level/MainMenu/GM_menu.uasset" SILENT=true
+[2022.05.25-14.35.12:692][773]LogSavePackage: Moving output files for package: /Game/Level/MainMenu/GM_menu
+[2022.05.25-14.35.12:692][773]LogSavePackage: Moving 'K:/OOP2022/Saved/GM_menu2296B8FD416400F5CB2995A7C1D1E245.tmp' to 'K:/OOP2022/Content/Level/MainMenu/GM_menu.uasset'
+[2022.05.25-14.35.12:693][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/MainMenu" FILE="K:/OOP2022/Content/Levels/MainMenu/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.25-14.35.12:756][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.05.25-14.35.12:762][773]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/MainMenu
+[2022.05.25-14.35.12:762][773]LogSavePackage: Moving 'K:/OOP2022/Saved/MainMenu9718E7744746A0BEFA198BA10B9C7311.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/MainMenu.umap'
+[2022.05.25-14.35.12:797][773]LogFileHelpers: Saving map 'MainMenu' took 0.105
+[2022.05.25-14.35.12:798][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/PC_menu" FILE="K:/OOP2022/Content/Levels/MainMenu/PC_menu.uasset" SILENT=true
+[2022.05.25-14.35.12:801][773]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/PC_menu
+[2022.05.25-14.35.12:801][773]LogSavePackage: Moving 'K:/OOP2022/Saved/PC_menu603069F24F396426E845479ECC41B1CD.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/PC_menu.uasset'
+[2022.05.25-14.35.12:805][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/UI_menu" FILE="K:/OOP2022/Content/Levels/MainMenu/UI_menu.uasset" SILENT=true
+[2022.05.25-14.35.12:814][773]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/UI_menu
+[2022.05.25-14.35.12:814][773]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_menuBEB9A9A349EAE48DA8B2BC8F39D0CE50.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/UI_menu.uasset'
+[2022.05.25-14.35.12:815][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GI" FILE="K:/OOP2022/Content/Levels/GI.uasset" SILENT=true
+[2022.05.25-14.35.12:816][773]LogSavePackage: Moving output files for package: /Game/Levels/GI
+[2022.05.25-14.35.12:816][773]LogSavePackage: Moving 'K:/OOP2022/Saved/GIB4C91D534DFC05C1E72C0881A3C60D18.tmp' to 'K:/OOP2022/Content/Levels/GI.uasset'
+[2022.05.25-14.35.12:817][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/SG" FILE="K:/OOP2022/Content/Levels/MainMenu/SG.uasset" SILENT=true
+[2022.05.25-14.35.12:819][773]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/SG
+[2022.05.25-14.35.12:819][773]LogSavePackage: Moving 'K:/OOP2022/Saved/SG077FCDB747BD47D15E2F49AA0BF46BB2.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/SG.uasset'
+[2022.05.25-14.35.12:819][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.35.12:828][773]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/UI_saveGameTile
+[2022.05.25-14.35.12:828][773]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTileEDA15EBC48A5414EA7B86B9D1D4751F8.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.35.12:829][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/FrontEnd/Military-shooting-range-vol_2" FILE="K:/OOP2022/Content/Levels/MainMenu/FrontEnd/Military-shooting-range-vol_2.uasset" SILENT=true
+[2022.05.25-14.35.12:831][773]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/FrontEnd/Military-shooting-range-vol_2
+[2022.05.25-14.35.12:831][773]LogSavePackage: Moving 'K:/OOP2022/Saved/Military-shooting-range-vol_2AE0508594B7EC227EF126C95DE445BE2.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/FrontEnd/Military-shooting-range-vol_2.uasset'
+[2022.05.25-14.35.13:010][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.05.25-14.35.13:068][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.05.25-14.35.13:122][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.05.25-14.35.13:141][773]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-14.35.13:141][773]LogContentValidation: Display: Validating Blueprint /Game/Levels/MainMenu/GM_menu.GM_menu
+[2022.05.25-14.35.13:141][773]LogContentValidation: Display: Validating World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2022.05.25-14.35.13:141][773]LogContentValidation: Display: Validating Blueprint /Game/Levels/MainMenu/PC_menu.PC_menu
+[2022.05.25-14.35.13:141][773]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/UI_menu.UI_menu
+[2022.05.25-14.35.13:142][773]LogContentValidation: Display: Validating ObjectRedirector /Game/Level/MainMenu/GM_menu.GM_menu
+[2022.05.25-14.35.13:142][773]LogContentValidation: Display: Validating ObjectRedirector /Game/Level/MainMenu/GM_menu.Default__GM_menu_C
+[2022.05.25-14.35.13:142][773]LogContentValidation: Display: Validating ObjectRedirector /Game/Level/MainMenu/GM_menu.GM_menu_C
+[2022.05.25-14.35.13:142][773]LogContentValidation: Display: Validating Blueprint /Game/Levels/GI.GI
+[2022.05.25-14.35.13:142][773]LogContentValidation: Display: Validating Blueprint /Game/Levels/MainMenu/SG.SG
+[2022.05.25-14.35.13:142][773]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.35.13:142][773]LogContentValidation: Display: Validating Texture2D /Game/Levels/MainMenu/FrontEnd/Military-shooting-range-vol_2.Military-shooting-range-vol_2
+[2022.05.25-14.36.05:241][848]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.05.25-14.36.05:241][848]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.05.25-14.36.10:356][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.05.25-14.36.14:219][143]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.25-14.39.15:361][995]LogDerivedDataCache: C:/Users/zakar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.215 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.25-14.40.43:334][253]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Levels/MainMenu/SG.SG
+[2022.05.25-14.40.43:335][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.25-14.40.49:465][593]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.40.49:465][593]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.42.10:650][332]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.42.10:929][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.05.25-14.42.11:134][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.42.11:142][333]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/UI_saveGameTile
+[2022.05.25-14.42.11:143][333]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTile475EF8D3461FE5589FE8A494E0A4EDEE.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.42.11:163][333]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.42.11:163][333]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.42.12:187][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.42.12:194][389]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/UI_saveGameTile
+[2022.05.25-14.42.12:194][389]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTileB8508C6A41D4B03D10290D9261E3F32B.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.42.12:212][389]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.42.12:212][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.43.21:367][479]LogEditorTransaction: Undo Create Pin Link
+[2022.05.25-14.43.40:349][590]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.43.40:512][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.05.25-14.43.41:341][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.43.41:350][634]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/UI_saveGameTile
+[2022.05.25-14.43.41:350][634]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTileC74DA6BF4E38180225589C84E8C9A62B.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.43.41:370][634]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.43.41:370][634]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.43.41:796][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.43.41:804][658]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/UI_saveGameTile
+[2022.05.25-14.43.41:805][658]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTileEF53FB19478DA1D268E00DB8BC1F8A46.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.43.41:822][658]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.43.41:823][658]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.44.24:928][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.44.24:937][240]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/UI_saveGameTile
+[2022.05.25-14.44.24:937][240]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTile8820E71645A3A63D302A5495B1ABA48C.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.44.24:955][240]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.44.24:955][240]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.45.27:923][996]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.25-14.45.27:928][996]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-14.46.20:228][120]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.05.25-14.46.20:234][120]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.25-14.46.28:613][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/UI_saveGameTile" FILE="K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset" SILENT=true
+[2022.05.25-14.46.28:623][617]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/UI_saveGameTile
+[2022.05.25-14.46.28:623][617]LogSavePackage: Moving 'K:/OOP2022/Saved/UI_saveGameTileE26C10494A63EFD90308EC84CC1FC791.tmp' to 'K:/OOP2022/Content/Levels/MainMenu/UI_saveGameTile.uasset'
+[2022.05.25-14.46.28:642][617]AssetCheck: New page: Asset Save: UI_saveGameTile
+[2022.05.25-14.46.28:642][617]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/UI_saveGameTile.UI_saveGameTile
+[2022.05.25-14.46.29:201][651]BlueprintLog: New page: Compile UI_saveGameTile
+[2022.05.25-14.46.29:313][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.25-14.47.30:257][241]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.25-14.48.06:408][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.05.25-14.48.06:411][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu/MainMenu' took 0.071
+[2022.05.25-14.51.37:440][610]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.51.37:440][610]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.51.52:176][485]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.25-14.51.52:182][485]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.25-14.51.52:267][485]LogPlayLevel: [PlayLevel] Compiling UI_menu before play...
+[2022.05.25-14.51.52:429][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.05.25-14.51.52:431][485]LogPlayLevel: PlayLevel: Blueprint regeneration took 249 ms (1 blueprints)
+[2022.05.25-14.51.52:432][485]PIE: New page: PIE session: MainMenu (25 mai 2022 à 18:51:52)
+[2022.05.25-14.51.52:432][485]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2022.05.25-14.51.52:433][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000943s)
+[2022.05.25-14.51.52:433][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.001022s)
+[2022.05.25-14.51.52:433][485]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.25-14.51.52:433][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.25-14.51.52:434][485]LogAIModule: Creating AISystem for world MainMenu
+[2022.05.25-14.51.52:435][485]LogPlayLevel: PIE: World Init took: (0.002020s)
+[2022.05.25-14.51.52:506][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.05.25-14.51.52:507][485]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.25-14.51.52:507][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.25-14.51.52:507][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.25-14.51.52:507][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.25-14.51.52:507][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.25-14.51.52:507][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.25-14.51.52:507][485]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.25-14.51.52:507][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.25-14.51.52:507][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.25-14.51.52:508][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.25-14.51.52:508][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.25-14.51.52:508][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.25-14.51.52:511][485]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.25-14.51.52:541][485]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2022.05.25-14.51.52:541][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.25-14.51.52:541][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.25-14.51.52:541][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.25-14.51.52:542][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.05.25-14.51.52:542][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2022.05.25-14.51.52:547][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.05.25-14.51.52:547][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.05.25-14.51.52:547][485]LogInit: FAudioDevice initialized.
+[2022.05.25-14.51.52:547][485]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2022.05.25-14.51.52:573][485]LogLoad: Game class is 'GM_menu_C'
+[2022.05.25-14.51.52:573][485]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2022.05.25-16.51.52
+[2022.05.25-14.51.52:573][485]LogWorld: Bringing up level for play took: 0.000353
+[2022.05.25-14.51.52:576][485]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.05.25-14.51.52:579][485]PIE: Server logged in
+[2022.05.25-14.51.52:579][485]PIE: Play in editor total start time 0,398 seconds.
+[2022.05.25-14.52.21:790][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-14.52.21:790][212]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2022.05.25-14.52.21:790][212]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.05.25-14.52.21:791][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-14.52.21:807][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.25-14.52.21:816][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.25-14.52.21:879][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.25-14.52.21:880][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.05.25-14.52.21:882][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.05.25-14.52.21:890][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.05.25-14.52.21:913][213]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.05.25-14.52.25:841][446]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.52.25:841][446]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.54.08:270][574]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.05.25-14.54.08:270][574]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
